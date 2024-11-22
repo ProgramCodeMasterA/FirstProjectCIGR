@@ -93,7 +93,10 @@ main {
 #hero {
     height: 600px;
     width: 100%;
+    /*
     background-image: url("../images/hero-image.webp") no-repeat center center/cover;
+    */
+    background-image: url("assets/images/hero-image.webp") no-repeat center center/cover;
     position: relative;
 }
 
